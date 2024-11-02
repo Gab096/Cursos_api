@@ -1,6 +1,5 @@
 package com.example.gabriel.cursos_java.modules.course.dto;
 
-import com.example.gabriel.cursos_java.modules.course.enitites.CoursesEntity;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

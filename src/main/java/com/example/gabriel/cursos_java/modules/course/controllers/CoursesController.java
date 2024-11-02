@@ -1,6 +1,5 @@
 package com.example.gabriel.cursos_java.modules.course.controllers;
 
-import com.example.gabriel.cursos_java.modules.course.dto.GetCoursesDTO;
 import com.example.gabriel.cursos_java.modules.course.dto.PutCoursesDTO;
 import com.example.gabriel.cursos_java.modules.course.enitites.CoursesEntity;
 import com.example.gabriel.cursos_java.modules.course.services.CourseServices;
